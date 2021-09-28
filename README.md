@@ -1,9 +1,10 @@
 ### Olá! Eu sou Antony Gaetano 👋
 
 
-- 🔭 Desenvolvedor Front - End
-- 📚 Estudando React.js e React Native 
-
+- 💻 Desenvolvedor Front - End!
+- 📚 Estudando React.js e React Native.
+- 🧐 Sempre a procura de novos desafios! 
+- 👊 Você só irá FRACASSAR se desistir.
 
 <div align="center">
   <a href="https://github.com/AntonyGaetano">
